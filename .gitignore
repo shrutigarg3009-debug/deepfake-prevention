@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary media files generated during processing
+temp_media/
+*.tmp
+*.mp4v
+
+# SQLite database journals and temporary write-ahead logs
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
